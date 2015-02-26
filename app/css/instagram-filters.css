@@ -1,0 +1,23 @@
+.ig-willow {
+  -moz-filter: saturate(0.02) contrast(0.85) brightness(1.2) sepia(0.02);
+  -webkit-filter: saturate(0.02) contrast(0.85) brightness(1.2) sepia(0.02);
+  filter: saturate(0.02) contrast(0.85) brightness(1.2) sepia(0.02);
+}
+
+.ig-earlybird {
+  -moz-filter: sepia(0.4) saturate(1.6) contrast(1.1) brightness(0.9) hue-rotate(-10deg);
+  -webkit-filter: sepia(0.4) saturate(1.6) contrast(1.1) brightness(0.9) hue-rotate(-10deg);
+  filter: sepia(0.4) saturate(1.6) contrast(1.1) brightness(0.9) hue-rotate(-10deg);
+}
+
+.ig-mayfair {
+  -moz-filter: saturate(1.4) contrast(1.1);
+  -webkit-filter: saturate(1.4) contrast(1.1);
+  filter: saturate(1.4) contrast(1.1);
+}
+
+.ig-amaro {
+  -moz-filter: hue-rotate(-10deg) contrast(0.9) brightness(1.1) saturate(1.5);
+  -webkit-filter: hue-rotate(-10deg) contrast(0.9) brightness(1.1) saturate(1.5);
+  filter: hue-rotate(-10deg) contrast(0.9) brightness(1.1) saturate(1.5);
+}
