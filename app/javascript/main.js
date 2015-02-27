@@ -11,7 +11,6 @@ getUserMedia(
 
 function onMediaStream(stream) {
   localVideo = document.getElementById("localVideo");
-  localVideo.volume = 0;
   
   localStream = stream;
   attachMediaStream(localVideo, stream);
