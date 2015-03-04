@@ -1,6 +1,6 @@
 var constraints = {
   video: true, 
-  audio: true
+  audio: false //set to true to enable audio
 };
 
 getUserMedia(
